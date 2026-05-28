@@ -2,7 +2,7 @@
 
 Dieses Repository ist für den direkten Import in Wokwi vorbereitet.
 
-[![Open in Wokwi](https://wokwi.com/assets/images/wokwi-badge.svg)](https://wokwi.com/projects/new/arduino-mega?template=https://github.com/DEIN-USER/DEIN-REPO)
+[![Open in Wokwi](https://wokwi.com/assets/images/wokwi-badge.svg)](https://wokwi.com/projects/new/arduino-mega?template=https://github.com/huschteklumbe/BMA-Simulator)
 
 ## Nutzung
 
